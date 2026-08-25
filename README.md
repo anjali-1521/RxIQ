@@ -20,8 +20,7 @@ RxIQ/
 ├── scripts/
 │   ├── 01_data_cleaning.py   # cleaning & preprocessing script (run this first)
 │   ├── 02_build_tables.py    # builds the 6 normalized tables
-│   ├── 03_forecasting_model.py   # Step 5: rep-month sales forecasting
-│   └── 04_ai_insight_narrator.py # Step 7 support: local-LLM-drafted memo
+│   └── 03_forecasting_model.py   # Step 5: rep-month sales forecasting
 ├── sql/
 │   ├── 01_schema.sql         # MySQL DDL
 │   ├── 02_load.sql           # LOAD DATA INFILE script
@@ -31,9 +30,7 @@ RxIQ/
 │   ├── zero_activity_rows.csv    # rows removed (Quantity=0 / Sales=0), kept for reference
 │   ├── forecasting_report.txt    # Step 5 model comparison results
 │   ├── tableau_dashboard_blueprint.md   # Step 6 dashboard build plan
-│   ├── tableau_build_guide.md    # Step 6: click-by-click Tableau build steps
-│   ├── ai_generated_memo.md      # Step 7: LLM-drafted memo (first draft, needs review)
-│   └── ai_narrator_notes.md      # model selection notes (1b vs 3b faithfulness test)
+│   └── tableau_build_guide.md    # Step 6: click-by-click Tableau build steps
 └── README.md
 ```
 
@@ -60,7 +57,7 @@ it are still in `reports/tableau_build_guide.md` if it's added later.
 - [x] Step 4 — Python EDA
 - [x] Step 5 — Forecasting / ML model
 - [x] Step 6 — Tableau dashboard (Overview, Rep Performance, Forecast — published to Tableau Public; Product & Channel intentionally scoped out)
-- [~] Step 7 — 1-page recommendation memo (AI-drafted first pass ready for review — see below)
+- [ ] Step 7 — 1-page recommendation memo
 
 ## Step 1 summary
 
@@ -146,30 +143,3 @@ it are still in `reports/tableau_build_guide.md` if it's added later.
   finding that performance differences are individual, not structural
 - Predictions saved to `data/processed/rep_month_predictions.csv` for
   dashboard use
-
-## GenAI feature — AI Insight Narrator (Step 7 support)
-
-- `scripts/04_ai_insight_narrator.py` computes the project's headline KPIs
-  directly from `rxiq_tableau_flat.csv` with pandas, then hands those
-  **computed facts** (not the raw dataset) to a local LLM — `llama3.2:3b`
-  running fully offline via [Ollama](https://ollama.com) — to draft a
-  ZS-style 1-page recommendation memo. Output: `reports/ai_generated_memo.md`.
-- **Why this design, not a raw-data chatbot:** LLMs are unreliable at
-  arithmetic over large tables and prone to inventing plausible-looking
-  numbers. Doing the math in pandas first, then having the LLM only narrate
-  pre-verified figures, removes that failure mode by construction — the
-  model can't misstate a number it never received.
-- **Why local instead of a hosted API:** no sales or rep data leaves the
-  machine — a real constraint in pharma analytics, not a hypothetical one —
-  and it costs nothing per run, so the memo can be regenerated on demand as
-  the underlying data changes.
-- **An honest finding, not a hidden one:** the smaller `llama3.2:1b` model
-  was tried first and, despite receiving identical grounded facts,
-  fabricated a "US territory" that doesn't exist in this Poland/Germany
-  dataset. `llama3.2:3b` did not. Full side-by-side in
-  `reports/ai_narrator_notes.md` — grounding narrows what an LLM can get
-  wrong, but doesn't remove the need for human review of AI-drafted output,
-  which is exactly why the generated memo is labeled a first draft, not a
-  final deliverable, in its own header.
-- Run it: `ollama pull llama3.2:3b` (one-time, ~2GB), then
-  `python3 scripts/04_ai_insight_narrator.py`.

@@ -1,0 +1,32 @@
+============================================================
+RxIQ DATA CLEANING REPORT
+============================================================
+
+Raw shape: (254082, 18)
+
+Standardized columns: ['distributor', 'customer_name', 'city', 'country', 'latitude', 'longitude', 'channel', 'sub_channel', 'product_name', 'product_class', 'quantity', 'price', 'sales', 'month', 'year', 'name_of_sales_rep', 'manager', 'sales_team']
+
+Stripped whitespace on columns: ['customer_name', 'distributor', 'month', 'channel', 'name_of_sales_rep', 'product_class', 'manager', 'product_name', 'sub_channel', 'country', 'city', 'sales_team']
+
+Dropped duplicate rows: 4 (before=254082, after=254078)
+
+Zero-activity rows found: 2660 (1.05%)
+Saved zero-activity rows separately to: zero_activity_rows.csv
+Remaining rows after removing zero-activity: 251418
+
+Rows where Sales != Price * Quantity: 0
+
+Final null check:
+None
+
+Final shape: (251418, 20)
+Date range: 2017-01-01 to 2020-12-01
+Countries: ['Poland', 'Germany']
+Sales teams: ['Delta', 'Bravo', 'Alfa', 'Charlie']
+# Sales reps: 13
+# Distributors: 29
+# Cities: 749
+# Products: 240
+Total Sales (cleaned): 11,945,457,289
+
+Cleaned dataset saved to: /home/claude/RxIQ/data/processed/pharma_clean.csv

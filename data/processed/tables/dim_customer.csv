@@ -1,0 +1,752 @@
+customer_id,customer_name,city,country,latitude,longitude,channel,sub_channel
+1,"Zieme, Doyle and Kunze",Lublin,Poland,51.2333,22.5667,Hospital,Private
+2,Feest PLC,Świecie,Poland,53.4167,18.4333,Pharmacy,Retail
+3,Medhurst-Beer Pharmaceutical Limited,Rybnik,Poland,50.0833,18.5,Pharmacy,Institution
+4,Barton Ltd Pharma Plc,Czeladź,Poland,50.3333,19.0833,Hospital,Private
+5,Keeling LLC Pharmacy,Olsztyn,Poland,53.78,20.4942,Pharmacy,Retail
+6,Runte-Marquardt Pharmaceutical Ltd,Olecko,Poland,54.0333,22.5,Hospital,Private
+7,"Blick, Pacocha and Schowalter",Inowrocław,Poland,52.7958,18.2611,Pharmacy,Retail
+8,Leuschke PLC Pharmacy,Ciechanów,Poland,52.8817,20.6106,Pharmacy,Retail
+9,Miller-Satterfield Pharma Plc,Nidzica,Poland,53.3583,20.425,Hospital,Private
+10,Bashirian-Kassulke Pharma Plc,Kraków,Poland,50.0614,19.9372,Hospital,Private
+11,Wolff Group Pharm,Gubin,Poland,51.95,14.7333,Hospital,Government
+12,"Denesik, Walter and Beatty Pharma Plc",Ostrów Mazowiecka,Poland,52.8,21.9,Pharmacy,Institution
+13,Breitenberg-Kuhn Pharmacy,Radom,Poland,51.4036,21.1567,Hospital,Private
+14,"McClure, Zemlak and Dibbert Pharma Plc",Gdańsk,Poland,54.3667,18.6333,Pharmacy,Retail
+15,Block-Romaguera Pharmaceutical Limited,Tarnowskie Góry,Poland,50.45,18.8667,Hospital,Private
+16,"Hahn, Rutherford and Gislason Pharmaceutical Limited",Łaziska Górne,Poland,50.15,18.8333,Hospital,Private
+17,D'Amore and Sons,Wągrowiec,Poland,52.8,17.2,Hospital,Private
+18,Koss Ltd Pharmaceutical Limited,Lwówek Śląski,Poland,51.1167,15.5833,Hospital,Private
+19,Fadel-West,Złotoryja,Poland,51.1264,15.9198,Pharmacy,Institution
+20,Lindgren-Simonis Pharm,Biskupiec,Poland,53.8647,20.9569,Pharmacy,Retail
+21,"Spinka, Schowalter and Conn Pharmaceutical Limited",Biłgoraj,Poland,50.55,22.7333,Pharmacy,Institution
+22,Will and Sons Pharma Plc,Gniew,Poland,53.8333,18.8333,Pharmacy,Retail
+23,Jakubowski Inc Pharmaceutical Limited,Bolesławiec,Poland,51.2667,15.5667,Pharmacy,Retail
+24,Schaden-Hirthe Pharmaceutical Ltd,Świdnica,Poland,50.8438,16.4886,Pharmacy,Institution
+25,Mraz Group Pharmacy,Piastów,Poland,52.1833,20.85,Hospital,Private
+26,Nader-Gaylord Pharmaceutical Ltd,Łódź,Poland,51.7769,19.4547,Pharmacy,Retail
+27,Heidenreich Group Pharmaceutical Ltd,Rzeszów,Poland,50.05,22.0,Pharmacy,Institution
+28,Mante-Grady Pharm,Lubaczów,Poland,50.1556,23.123,Pharmacy,Institution
+29,Feest-Kshlerin Pharmaceutical Ltd,Świdnik,Poland,51.2333,22.7,Pharmacy,Institution
+30,"Leuschke, Waters and Schowalter Pharmaceutical Ltd",Krapkowice,Poland,50.4751,17.9654,Pharmacy,Institution
+31,"Hirthe, Williamson and Macejkovic Pharma Plc",Brzeg,Poland,50.8667,17.4833,Hospital,Government
+32,Emard-O'Connell Pharmacy,Zakopane,Poland,49.2994,19.9519,Pharmacy,Retail
+33,Carter-Conn Pharma Plc,Brwinów,Poland,52.1417,20.7167,Hospital,Private
+34,"Heathcote, Grant and Witting Pharm",Bielsko-Biała,Poland,49.8225,19.0444,Pharmacy,Institution
+35,Boyer and Sons Pharmaceutical Limited,Wałcz,Poland,53.2667,16.4667,Hospital,Government
+36,Rowe PLC Pharmaceutical Ltd,Kęty,Poland,49.8821,19.2233,Pharmacy,Institution
+37,McCullough LLC Pharma Plc,Częstochowa,Poland,50.8,19.1167,Pharmacy,Retail
+38,"Grimes, Jacobs and Durgan Pharm",Bełchatów,Poland,51.3667,19.3667,Hospital,Private
+39,"Balistreri, Torp and Gulgowski Pharmacy",Chełmża,Poland,53.2,18.6,Hospital,Private
+40,Will and Sons Pharmaceutical Limited,Poznań,Poland,52.4,16.9167,Hospital,Government
+41,Osinski-Collins Pharmaceutical Ltd,Elbląg,Poland,54.1667,19.4,Pharmacy,Institution
+42,"Parisian, Hagenes and Skiles Pharma Plc",Ciechocinek,Poland,52.8833,18.7833,Pharmacy,Retail
+43,"Schmitt, Berge and Haley Pharma Plc",Kłodzko,Poland,50.4378,16.6528,Hospital,Private
+44,"Funk, Ratke and Heaney Pharmacy",Prabuty,Poland,53.7558,19.1975,Hospital,Government
+45,Walsh-Brown Pharmacy,Chorzów,Poland,50.3,18.95,Pharmacy,Retail
+46,"Schowalter, Runolfsson and VonRueden Pharmaceutical Ltd",Grudziądz,Poland,53.4925,18.7761,Pharmacy,Retail
+47,"Beahan, Littel and Ondricka Pharmacy",Łęczyca,Poland,52.0583,19.2,Pharmacy,Institution
+48,Veum-Kerluke Pharmacy,Człuchów,Poland,53.65,17.3667,Pharmacy,Retail
+49,Doyle-Tillman Pharmaceutical Ltd,Dęblin,Poland,51.5667,21.8614,Hospital,Private
+50,Ondricka Ltd Pharmacy,Świnoujście,Poland,53.9167,14.25,Hospital,Government
+51,Raynor-Graham Pharmaceutical Limited,Gorzów Wielkopolski,Poland,52.7333,15.25,Pharmacy,Institution
+52,Koss-Beier,Nakło nad Notecią,Poland,53.1421,17.6018,Pharmacy,Retail
+53,"Johnson, Friesen and Torphy Pharma Plc",Gryfino,Poland,53.2524,14.4883,Hospital,Government
+54,Koch-Osinski Pharm,Sandomierz,Poland,50.6833,21.75,Hospital,Government
+55,Schaefer LLC Pharmacy,Kamień Pomorski,Poland,53.9697,14.7858,Hospital,Government
+56,Funk and Sons Pharmaceutical Limited,Tarnobrzeg,Poland,50.5833,21.6833,Pharmacy,Retail
+57,Marquardt-Ryan Pharmaceutical Ltd,Węgorzewo,Poland,54.2167,21.75,Hospital,Private
+58,"Romaguera, Moen and Hagenes Pharmaceutical Limited",Sopot,Poland,54.4419,18.5478,Hospital,Private
+59,Hartmann-Wolf,Trzebnica,Poland,51.305,17.0614,Hospital,Government
+60,Schmitt LLC Pharm,Nysa,Poland,50.4738,17.3344,Pharmacy,Retail
+61,"Buckridge, Dach and Carroll Pharmaceutical Limited",Luboń,Poland,52.3333,16.8833,Hospital,Private
+62,"Yundt, Leuschke and Ward Pharmaceutical Ltd",Żychlin,Poland,52.2453,19.6236,Hospital,Government
+63,Rohan Inc,Chojnów,Poland,51.2667,15.9333,Pharmacy,Institution
+64,"Wintheiser, Breitenberg and Gottlieb Pharmaceutical Limited",Milanówek,Poland,52.1243,20.6654,Pharmacy,Retail
+65,Pfeffer-Hodkiewicz Pharmaceutical Ltd,Szczytno,Poland,53.5628,20.9853,Hospital,Government
+66,"Moen, Murazik and Smith",Siedlce,Poland,52.1833,22.2833,Pharmacy,Retail
+67,Jast-Cruickshank Pharma Plc,Białystok,Poland,53.1167,23.1667,Pharmacy,Retail
+68,"Hills, Stroman and Ernser Pharm",Pułtusk,Poland,52.7025,21.0828,Hospital,Private
+69,"Schinner, Gaylord and Treutel Pharmaceutical Ltd",Dąbrowa Górnicza,Poland,50.3239,19.1947,Hospital,Government
+70,Graham and Sons Pharmacy,Warka,Poland,51.7833,21.2,Hospital,Private
+71,Stehr-Champlin Pharmaceutical Limited,Nowe Miasto Lubawskie,Poland,53.4167,19.5833,Hospital,Government
+72,Mann-Waelchi Pharm,Piotrków Trybunalski,Poland,51.4,19.6833,Hospital,Private
+73,Haley PLC Pharmaceutical Limited,Opole,Poland,50.6722,17.9253,Pharmacy,Retail
+74,Denesik-Hintz Pharm,Międzyrzec Podlaski,Poland,51.9833,22.8,Pharmacy,Retail
+75,"Rosenbaum, Klein and Herzog",Zbąszyń,Poland,52.2531,15.9178,Hospital,Private
+76,Trantow LLC Pharma Plc,Braniewo,Poland,54.3833,19.8333,Pharmacy,Retail
+77,Hill Ltd,Gliwice,Poland,50.2976,18.6766,Pharmacy,Retail
+78,Leannon-West Pharmacy,Cieszyn,Poland,49.75,18.6333,Pharmacy,Retail
+79,"Kub, Von and Herzog Pharmacy",Wschowa,Poland,51.8,16.3,Hospital,Private
+80,Welch-Orn,Chełmno,Poland,53.3492,18.4261,Hospital,Private
+81,Purdy Ltd Pharmaceutical Limited,Głuchołazy,Poland,50.3131,17.3742,Hospital,Government
+82,Balistreri-Watsica Pharmacy,Ełk,Poland,53.8167,22.35,Pharmacy,Retail
+83,"Herman, Rice and Rippin",Ziębice,Poland,50.6,17.0444,Hospital,Government
+84,Kertzmann-Ward Pharma Plc,Opoczno,Poland,51.3833,20.2833,Pharmacy,Institution
+85,Streich PLC Pharmaceutical Limited,Przemyśl,Poland,49.785,22.7673,Pharmacy,Institution
+86,"Upton, Abernathy and Goodwin Pharmaceutical Ltd",Jarosław,Poland,50.0162,22.6778,Hospital,Government
+87,"Greenholt, Donnelly and O'Reilly Pharmaceutical Limited",Rumia,Poland,54.5667,18.4,Pharmacy,Retail
+88,"Kilback, Beer and Batz Pharma Plc",Kutno,Poland,52.2333,19.3667,Pharmacy,Retail
+89,Kunze PLC Pharm,Darłowo,Poland,54.4167,16.4167,Hospital,Private
+90,Lesch PLC Pharmacy,Wrocław,Poland,51.1077,17.0353,Hospital,Private
+91,Hermiston LLC,Strzegom,Poland,51.0,16.3333,Pharmacy,Institution
+92,Kozey Ltd Pharmaceutical Ltd,Bielsk Podlaski,Poland,52.7667,23.2,Hospital,Government
+93,Bayer LLC Pharmaceutical Ltd,Bytów,Poland,54.1667,17.5,Hospital,Private
+94,"Buckridge, Hand and Hyatt Pharma Plc",Zgorzelec,Poland,51.1528,15.0,Pharmacy,Institution
+95,Hansen Group Pharm,Gryfów Śląski,Poland,51.0308,15.4202,Hospital,Private
+96,Beier PLC Pharmacy,Włocławek,Poland,52.65,19.05,Hospital,Private
+97,"Paucek, Keeling and Bruen Pharm",Łęczna,Poland,51.3,22.8833,Pharmacy,Institution
+98,Schaefer-Rolfson,Niepołomice,Poland,50.0339,20.2172,Hospital,Private
+99,West Group Pharmacy,Kluczbork,Poland,50.9833,18.2167,Hospital,Government
+100,Kozey-Schroeder,Jawor,Poland,51.05,16.1833,Hospital,Private
+101,"Koch, Borer and Hagenes",Kościan,Poland,52.0833,16.65,Hospital,Private
+102,"Wunsch, Mills and Walter",Kielce,Poland,50.8725,20.6319,Pharmacy,Institution
+103,Crist Inc,Stary Sącz,Poland,49.5625,20.6364,Hospital,Private
+104,"Sanford, Franecki and Greenholt",Nowa Sól,Poland,51.8,15.7167,Pharmacy,Institution
+105,Steuber Ltd Pharmacy,Ostrołęka,Poland,53.0833,21.5667,Hospital,Private
+106,Prohaska-Kuhic Pharmacy,Wisła,Poland,49.6667,18.8667,Pharmacy,Institution
+107,Hermiston and Sons Pharma Plc,Bochnia,Poland,49.9833,20.4333,Pharmacy,Institution
+108,Monahan Ltd,Oświęcim,Poland,50.0333,19.2333,Hospital,Government
+109,"Steuber, Skiles and Kilback Pharma Plc",Sosnowiec,Poland,50.3,19.1667,Pharmacy,Retail
+110,Funk PLC Pharmaceutical Limited,Mikołów,Poland,50.171,18.9041,Hospital,Government
+111,Spencer-Jerde Pharmacy,Przeworsk,Poland,50.0591,22.4941,Pharmacy,Institution
+112,Moore PLC Pharmaceutical Ltd,Łomża,Poland,53.1833,22.0833,Pharmacy,Retail
+113,Torp-Fisher Pharma Plc,Gorlice,Poland,49.6556,21.1604,Hospital,Government
+114,Botsford and Sons Pharmaceutical Ltd,Kołobrzeg,Poland,54.1667,15.5667,Pharmacy,Institution
+115,Crona Group Pharma Plc,Kwidzyn,Poland,53.7358,18.9308,Pharmacy,Institution
+116,Mills Inc Pharma Plc,Bydgoszcz,Poland,53.1167,18.0,Hospital,Private
+117,Herman-Koss Pharm,Lubsko,Poland,51.7877,14.9724,Hospital,Private
+118,Kling Inc Pharmaceutical Ltd,Ostrowiec Świętokrzyski,Poland,50.9333,21.4,Pharmacy,Institution
+119,"Bernier, Murphy and Rau Pharmaceutical Ltd",Ruda Śląska,Poland,50.2628,18.8536,Pharmacy,Institution
+120,"Gleichner, Bahringer and Morar Pharma Plc",Gostynin,Poland,52.4167,19.4667,Hospital,Private
+121,Erdman PLC Pharmacy,Ozimek,Poland,50.6731,18.2131,Pharmacy,Institution
+122,Yundt-Crona Pharmaceutical Ltd,Siemiatycze,Poland,52.4272,22.8625,Hospital,Private
+123,Okuneva-Corkery,Kostrzyn nad Odrą,Poland,52.5883,14.6667,Hospital,Government
+124,Gottlieb-Cruickshank Pharma Plc,Brzeszcze,Poland,50.0,19.15,Hospital,Private
+125,"Hansen, Fadel and Schroeder Pharm",Gniezno,Poland,52.5333,17.6,Pharmacy,Retail
+126,Schaefer Group Pharmaceutical Limited,Ustroń,Poland,49.7167,18.8167,Hospital,Government
+127,Senger-Kirlin Pharmacy,Kobyłka,Poland,52.3395,21.1959,Hospital,Government
+128,Leffler-Russel Pharm,Konstancin-Jeziorna,Poland,52.0938,21.1176,Hospital,Private
+129,Nader-Gaylord Pharmaceutical Limited,Sobótka,Poland,50.8986,16.7444,Hospital,Private
+130,Heller-Abernathy,Brzeg Dolny,Poland,51.273,16.7081,Hospital,Private
+131,Rutherford and Sons,Gdynia,Poland,54.5189,18.5319,Pharmacy,Retail
+132,Lockman Ltd,Połaniec,Poland,50.4333,21.2833,Pharmacy,Institution
+133,Rogahn-Klein Pharmacy,Koronowo,Poland,53.3137,17.937,Hospital,Private
+134,"Crist, Wisoky and Nolan Pharmaceutical Ltd",Toruń,Poland,53.0167,18.6167,Pharmacy,Retail
+135,"Kshlerin, Ryan and Leuschke Pharma Plc",Zielona Góra,Poland,51.9397,15.505,Hospital,Government
+136,"Cormier, Dietrich and Zulauf Pharma Plc",Puławy,Poland,51.4166,21.9694,Hospital,Government
+137,Crona PLC Pharma Plc,Białogard,Poland,54.007,15.9875,Hospital,Private
+138,Kreiger Inc Pharma Plc,Mielec,Poland,50.2833,21.4333,Hospital,Private
+139,"Nitzsche, Effertz and Maggio Pharmacy",Malbork,Poland,54.0285,19.0444,Hospital,Private
+140,"Lebsack, Yost and Heller Pharmaceutical Limited",Wieliczka,Poland,49.9894,20.0661,Pharmacy,Institution
+141,"Harris, Daugherty and Okuneva Pharma Plc",Krotoszyn,Poland,51.697,17.4357,Pharmacy,Retail
+142,Zemlak Group Pharmaceutical Limited,Koszalin,Poland,54.1903,16.1817,Hospital,Private
+143,"Bogan, Jacobs and Kris Pharmacy",Lubartów,Poland,51.4667,22.6,Pharmacy,Institution
+144,"Kertzmann, Quitzon and Harris Pharma Plc",Reszel,Poland,54.0504,21.1458,Hospital,Government
+145,Cassin PLC Pharmacy,Miastko,Poland,54.0,16.9833,Hospital,Private
+146,Lesch PLC Pharmaceutical Ltd,Głuszyca,Poland,50.6874,16.3717,Pharmacy,Retail
+147,Bosco-Marquardt Pharm,Lębork,Poland,54.55,17.75,Hospital,Private
+148,"Gerhold, Mills and Effertz Pharm",Głubczyce,Poland,50.2009,17.8286,Pharmacy,Institution
+149,Welch-Langworth,Warsaw,Poland,52.2167,21.0333,Pharmacy,Retail
+150,"Brakus, Rempel and Harber Pharma Plc",Nowy Targ,Poland,49.4833,20.0333,Pharmacy,Institution
+151,Zemlak-Witting Pharmacy,Międzyrzecz,Poland,52.4446,15.578,Pharmacy,Institution
+152,Powlowski-Buckridge Pharma Plc,Ustka,Poland,54.5805,16.8619,Hospital,Private
+153,"Runolfsson, Swaniawski and Jaskolski Pharmacy",Sieradz,Poland,51.6,18.75,Hospital,Private
+154,"Beer, Kohler and Beatty Pharmaceutical Ltd",Rypin,Poland,53.0667,19.45,Pharmacy,Retail
+155,Bartoletti-Altenwerth,Police,Poland,53.55,14.5708,Hospital,Government
+156,Buckridge-Strosin Pharmaceutical Limited,Pruszków,Poland,52.1667,20.8,Hospital,Government
+157,Ward Group Pharmaceutical Limited,Zabrze,Poland,50.3,18.7833,Pharmacy,Institution
+158,Kutch-Marks Pharm,Chełm,Poland,51.1333,23.4833,Hospital,Private
+159,Schimmel-Waelchi Pharmaceutical Ltd,Grodzisk Mazowiecki,Poland,52.1039,20.6337,Hospital,Government
+160,"Kuphal, D'Amore and Bode Pharmaceutical Ltd",Szczecin,Poland,53.4247,14.5553,Pharmacy,Retail
+161,Lockman-Welch Pharm,Bytom,Poland,50.347,18.923,Hospital,Government
+162,"Nolan, DuBuque and Schultz Pharm",Wałbrzych,Poland,50.7667,16.2833,Hospital,Government
+163,Barrows Inc,Hajnówka,Poland,52.7333,23.5667,Hospital,Private
+164,"Towne, Cummerata and Blanda Pharm",Kalisz,Poland,51.757,18.083,Hospital,Private
+165,"Wiegand, Jast and Yost Pharma Plc",Płock,Poland,52.55,19.7,Hospital,Private
+166,Lemke Ltd Pharm,Tarnów,Poland,50.0125,20.9883,Hospital,Private
+167,Walter Ltd,Kętrzyn,Poland,54.0833,21.3833,Pharmacy,Institution
+168,Nader-Borer Pharma Plc,Bielawa,Poland,50.6908,16.623,Pharmacy,Retail
+169,Botsford PLC Pharmacy,Pabianice,Poland,51.6642,19.35,Pharmacy,Institution
+170,"Casper, Hyatt and Jakubowski Pharmaceutical Limited",Otwock,Poland,52.1167,21.2667,Hospital,Government
+171,"McClure, Zemlak and Dibbert Pharmaceutical Limited",Kórnik,Poland,52.2367,17.0986,Hospital,Private
+172,Romaguera-Fay Pharmaceutical Limited,Trzemeszno,Poland,52.5614,17.8231,Pharmacy,Retail
+173,"Ondricka, Rosenbaum and Beahan",Starogard Gdański,Poland,53.9667,18.5333,Hospital,Government
+174,Parisian Ltd Pharm,Jelenia Góra,Poland,50.9,15.7333,Pharmacy,Institution
+175,Hayes-Kilback Pharmaceutical Ltd,Żary,Poland,51.6333,15.1333,Pharmacy,Retail
+176,Gibson-Hill Pharma Plc,Chrzanów,Poland,50.1333,19.4,Hospital,Private
+177,Gerlach LLC,Krzeszowice,Poland,50.1333,19.6333,Hospital,Government
+178,Kuhic LLC Pharma Plc,Oborniki,Poland,52.65,16.8167,Pharmacy,Retail
+179,Abernathy Group Pharmaceutical Limited,Brzesko,Poland,49.9667,20.6167,Hospital,Government
+180,Vandervort LLC Pharma Plc,Łańcut,Poland,50.0687,22.2291,Pharmacy,Institution
+181,"Effertz, Heaney and Tillman Pharmaceutical Ltd",Jaworzno,Poland,50.2,19.275,Hospital,Government
+182,Sauer and Sons Pharmaceutical Limited,Brzozów,Poland,49.6953,22.0194,Pharmacy,Retail
+183,"Erdman, Senger and Oberbrunner Pharm",Rawa Mazowiecka,Poland,51.7667,20.25,Pharmacy,Retail
+184,Rohan PLC Pharmaceutical Limited,Krynica,Poland,49.4222,20.9594,Pharmacy,Retail
+185,Schulist-Zulauf Pharm,Tychy,Poland,50.1667,19.0,Hospital,Private
+186,"Haag, Bradtke and Terry Pharmacy",Biała Podlaska,Poland,52.0333,23.1167,Hospital,Government
+187,Waelchi LLC Pharmacy,Katowice,Poland,50.25,19.0,Hospital,Government
+188,Feest-Roob Pharmaceutical Ltd,Wolsztyn,Poland,52.1167,16.1167,Pharmacy,Institution
+189,"Reynolds, Jast and Mante Pharma Plc",Pleszew,Poland,51.8974,17.7856,Pharmacy,Institution
+190,Pfannerstill Group Pharmaceutical Ltd,Jelcz-Laskowice,Poland,51.0333,17.3333,Pharmacy,Retail
+191,Buckridge-Davis,Legnica,Poland,51.2101,16.1619,Hospital,Private
+192,Balistreri Group Pharmaceutical Ltd,Prudnik,Poland,50.3197,17.5792,Pharmacy,Institution
+193,Ritchie-Rodriguez Pharm,Łuków,Poland,51.9167,22.3833,Pharmacy,Retail
+194,Daugherty-Rempel Pharma Plc,Bełżyce,Poland,51.1833,22.2667,Hospital,Government
+195,"Roob, Ernser and Kub Pharmaceutical Limited",Suwałki,Poland,54.0833,22.9333,Hospital,Government
+196,Fritsch-Hauck Pharma Plc,Mysłowice,Poland,50.2333,19.1333,Hospital,Government
+197,Roob PLC,Świedbodzin,Poland,52.25,15.5333,Pharmacy,Institution
+198,Reilly Ltd,Mława,Poland,53.1167,20.3667,Pharmacy,Retail
+199,Stanton-Cole,Skierniewice,Poland,51.9528,20.1417,Hospital,Private
+200,Mraz-Kutch Pharm,Bieruń Stary,Poland,50.0897,19.0928,Pharmacy,Retail
+201,Fadel-West Pharmacy,Ditzingen,Germany,48.8264,9.0667,Hospital,Government
+202,Nader-Gaylord Pharmacy,Backnang,Germany,48.9464,9.4306,Hospital,Private
+203,McKenzie-Zemlak Pharm,Rheinbach,Germany,50.6256,6.9491,Pharmacy,Institution
+204,Fritsch-Hauck Pharmaceutical Ltd,Fürth,Germany,49.4783,10.9903,Pharmacy,Retail
+205,"Bernier, Murphy and Rau Pharma Plc",Geldern,Germany,51.5197,6.3325,Hospital,Government
+206,Parisian Ltd Pharmacy,Hoyerswerda,Germany,51.4331,14.25,Hospital,Private
+207,Beier PLC,Heidelberg,Germany,49.4122,8.71,Pharmacy,Retail
+208,Wehner-Stehr,Steinfurt,Germany,52.1504,7.3366,Pharmacy,Institution
+209,Barrows-Kohler Pharm,Hamburg,Germany,53.55,10.0,Hospital,Private
+210,McDermott Group Pharmaceutical Ltd,Lindau,Germany,47.5458,9.6839,Pharmacy,Institution
+211,"Hansen, Fadel and Schroeder Pharma Plc",Wolfsburg,Germany,52.4231,10.7872,Pharmacy,Institution
+212,Zemlak Group Pharmacy,Solingen,Germany,51.1667,7.0833,Hospital,Private
+213,Spencer-Jerde Pharmaceutical Limited,Kaufbeuren,Germany,47.88,10.6225,Hospital,Government
+214,Kutch-Marks Pharmaceutical Limited,Kreuztal,Germany,50.962,8.0064,Hospital,Private
+215,"Nitzsche, Effertz and Maggio Pharmaceutical Limited",Northeim,Germany,51.7067,10.0011,Pharmacy,Retail
+216,"Blanda, Stehr and Gleason Pharma Plc",Starnberg,Germany,47.9972,11.3406,Hospital,Private
+217,Koss-Beier Pharmacy,Roth,Germany,49.2461,11.0911,Hospital,Government
+218,"Towne, Cummerata and Blanda Pharmaceutical Ltd",Darmstadt,Germany,49.8667,8.65,Hospital,Government
+219,Rohan and Sons Pharmaceutical Limited,Maintal,Germany,50.15,8.8333,Pharmacy,Institution
+220,Stanton-Cole Pharmacy,Düren,Germany,50.8,6.4833,Pharmacy,Institution
+221,Botsford and Sons,Marl,Germany,51.6667,7.1167,Hospital,Private
+222,Crona PLC Pharmacy,Eschweiler,Germany,50.8167,6.2833,Hospital,Government
+223,"Leuschke, Waters and Schowalter Pharmacy",Salzkotten,Germany,51.6708,8.6047,Hospital,Government
+224,Moore PLC Pharm,Bremerhaven,Germany,53.55,8.5833,Hospital,Government
+225,Rowe PLC Pharm,Verl,Germany,51.8831,8.5167,Pharmacy,Retail
+226,Heller-Abernathy Pharma Plc,Heide,Germany,54.1961,9.0933,Pharmacy,Retail
+227,Monahan Ltd Pharmaceutical Ltd,Lüneburg,Germany,53.2525,10.4144,Pharmacy,Retail
+228,Walsh-Brown Pharma Plc,Osnabrück,Germany,52.2789,8.0431,Pharmacy,Retail
+229,Kris LLC Pharm,Zeitz,Germany,51.0478,12.1383,Pharmacy,Institution
+230,"Paucek, Keeling and Bruen Pharmaceutical Limited",Bad Kreuznach,Germany,49.8469,7.8669,Pharmacy,Retail
+231,"Fritsch, Hodkiewicz and Sipes Pharma Plc",Ettlingen,Germany,48.9333,8.4,Hospital,Government
+232,Schimmel-Waelchi Pharma Plc,Garbsen,Germany,52.4183,9.5981,Pharmacy,Institution
+233,"Runolfsson, Swaniawski and Jaskolski Pharmaceutical Limited",Dessau-Roßlau,Germany,51.8333,12.2333,Pharmacy,Institution
+234,"Denesik, Walter and Beatty Pharmacy",Ludwigsfelde,Germany,52.2997,13.2667,Hospital,Private
+235,Lemke Ltd Pharmaceutical Limited,Jülich,Germany,50.9222,6.3583,Hospital,Private
+236,"Gerhold, Mills and Effertz Pharma Plc",Stadthagen,Germany,52.3247,9.2069,Hospital,Private
+237,Hill Ltd Pharmaceutical Limited,Augsburg,Germany,48.3717,10.8983,Hospital,Government
+238,Pfannerstill Group Pharmaceutical Limited,Kaarst,Germany,51.2278,6.6273,Pharmacy,Retail
+239,Ondricka-Waters Pharmaceutical Ltd,Bad Oeynhausen,Germany,52.2,8.8,Pharmacy,Institution
+240,Franecki Inc Pharma Plc,Schwerte,Germany,51.4458,7.5653,Pharmacy,Retail
+241,Reinger Group Pharmaceutical Limited,Schwerin,Germany,53.6333,11.4167,Pharmacy,Institution
+242,"Harris, Daugherty and Okuneva Pharmaceutical Limited",Meißen,Germany,51.1636,13.4775,Hospital,Government
+243,Reichel Inc Pharm,Schönebeck,Germany,52.0167,11.75,Hospital,Private
+244,Fritsch LLC Pharm,Biberach,Germany,48.0981,9.7886,Hospital,Government
+245,Barrows-Kohler Pharma Plc,Coesfeld,Germany,51.9458,7.1675,Pharmacy,Retail
+246,Runte-Marquardt Pharmacy,Idstein,Germany,50.2206,8.2692,Pharmacy,Retail
+247,Cassin PLC Pharma Plc,Mühldorf,Germany,48.2456,12.5228,Pharmacy,Retail
+248,Raynor LLC Pharm,Hilden,Germany,51.1714,6.9394,Pharmacy,Retail
+249,"Hirthe, Williamson and Macejkovic Pharmacy",Landshut,Germany,48.5397,12.1508,Hospital,Government
+250,D'Amore and Sons Pharmacy,Lohne,Germany,52.6667,8.2386,Hospital,Government
+251,"Kirlin, Hamill and Dickinson Pharma Plc",Weißenburg,Germany,49.0306,10.9719,Pharmacy,Retail
+252,Crist Inc Pharma Plc,Eschwege,Germany,51.1881,10.0528,Pharmacy,Retail
+253,Denesik-Hintz Pharma Plc,Wiehl,Germany,50.95,7.5333,Pharmacy,Institution
+254,Heidenreich Group Pharm,Mannheim,Germany,49.4878,8.4661,Hospital,Government
+255,"Armstrong, Medhurst and Bogisich Pharmaceutical Ltd",Waldshut-Tiengen,Germany,47.6231,8.2144,Hospital,Private
+256,"Kuphal, D'Amore and Bode Pharm",Cologne,Germany,50.9422,6.9578,Hospital,Government
+257,Weber Ltd Pharmaceutical Ltd,Merseburg,Germany,51.3544,11.9928,Hospital,Private
+258,VonRueden-Adams Pharm,Delitzsch,Germany,51.5264,12.3425,Pharmacy,Retail
+259,Kunze PLC Pharma Plc,Eisenach,Germany,50.9747,10.3244,Hospital,Government
+260,"Langworth, Olson and Satterfield Pharm",Tübingen,Germany,48.52,9.0556,Hospital,Private
+261,"Brakus, Rempel and Harber Pharmacy",Fulda,Germany,50.5528,9.6775,Hospital,Private
+262,"Casper, Hyatt and Jakubowski Pharmacy",Minden,Germany,52.2883,8.9167,Hospital,Government
+263,Buckridge-Strosin Pharmaceutical Ltd,Erlangen,Germany,49.5964,11.0044,Hospital,Government
+264,Runolfsson-Halvorson Pharm,Rheinberg,Germany,51.5467,6.6006,Pharmacy,Retail
+265,"Kertzmann, Quitzon and Harris",Greven,Germany,52.0917,7.6083,Hospital,Government
+266,"Denesik, Walter and Beatty",Nordhorn,Germany,52.4333,7.0667,Pharmacy,Institution
+267,Schuppe Inc,Bensheim,Germany,49.6811,8.6228,Pharmacy,Retail
+268,Okuneva-Corkery Pharm,Groß-Gerau,Germany,49.9214,8.4818,Hospital,Government
+269,Graham and Sons Pharm,Germering,Germany,48.1333,11.3667,Hospital,Government
+270,Pfeffer-Hodkiewicz Pharm,Pulheim,Germany,51.0,6.8,Pharmacy,Retail
+271,"Parker, Green and Emmerich Pharma Plc",Baesweiler,Germany,50.9,6.1833,Pharmacy,Retail
+272,Collins-Schmidt Pharmaceutical Limited,Bretten,Germany,49.0364,8.7061,Pharmacy,Institution
+273,"Reynolds, Jast and Mante Pharm",Elmshorn,Germany,53.7547,9.6536,Hospital,Government
+274,Schimmel-Waelchi Pharmaceutical Limited,Olching,Germany,48.2,11.3167,Pharmacy,Institution
+275,"Steuber, Hills and Botsford",Gotha,Germany,50.9489,10.7183,Pharmacy,Institution
+276,Bayer LLC Pharm,Neunkirchen,Germany,49.3448,7.1799,Hospital,Government
+277,Funk and Sons Pharmacy,Friedberg,Germany,48.35,10.9833,Pharmacy,Retail
+278,Homenick-Larson Pharmaceutical Ltd,Bergkamen,Germany,51.6167,7.6333,Hospital,Government
+279,Mraz Group Pharma Plc,Hohen Neuendorf,Germany,52.6667,13.2831,Hospital,Private
+280,Ondricka Ltd Pharmaceutical Ltd,Bamberg,Germany,49.8917,10.8917,Pharmacy,Institution
+281,Daugherty-Rempel Pharmaceutical Limited,Sigmaringen,Germany,48.0867,9.2164,Hospital,Private
+282,"Kub, Von and Herzog Pharmaceutical Ltd",Borken,Germany,51.8439,6.8583,Pharmacy,Institution
+283,"Funk, Ratke and Heaney Pharma Plc",Bautzen,Germany,51.1814,14.4239,Hospital,Government
+284,Hermiston LLC Pharm,Moers,Germany,51.4592,6.6197,Pharmacy,Retail
+285,Konopelski-Blick,Bergisch Gladbach,Germany,50.9917,7.1367,Hospital,Government
+286,"Beer, Kohler and Beatty",Oberursel,Germany,50.2028,8.5769,Hospital,Government
+287,"Will, McGlynn and Fritsch Pharmaceutical Ltd",Bitterfeld,Germany,51.6167,12.3167,Pharmacy,Retail
+288,Heller-Abernathy Pharmaceutical Limited,Siegburg,Germany,50.8014,7.2044,Hospital,Private
+289,"Kuphal, D'Amore and Bode Pharmacy",Wesseling,Germany,50.8207,6.9786,Hospital,Government
+290,"Balistreri, Torp and Gulgowski",Bietigheim-Bissingen,Germany,48.9667,9.1333,Hospital,Private
+291,Tillman Group Pharmaceutical Limited,Geilenkirchen,Germany,50.9653,6.1194,Hospital,Government
+292,"Rosenbaum, Klein and Herzog Pharmaceutical Ltd",Fürstenfeldbruck,Germany,48.1778,11.2556,Hospital,Government
+293,Jacobs-Jones Pharma Plc,Schwedt (Oder),Germany,53.0631,14.2831,Pharmacy,Retail
+294,"Armstrong, Medhurst and Bogisich Pharmacy",Lehrte,Germany,52.3725,9.9769,Hospital,Government
+295,"Rosenbaum, Klein and Herzog Pharma Plc",Parchim,Germany,53.4167,11.8333,Hospital,Government
+296,Leffler-Russel Pharmaceutical Ltd,Lingen,Germany,52.5233,7.3172,Pharmacy,Retail
+297,"Beahan, Littel and Ondricka",Memmingen,Germany,47.9878,10.1811,Pharmacy,Institution
+298,Streich PLC,Bottrop,Germany,51.5232,6.9253,Pharmacy,Retail
+299,Kreiger Inc Pharm,Salzgitter,Germany,52.1503,10.3593,Hospital,Government
+300,"Gleichner, Bahringer and Morar Pharmacy",Brilon,Germany,51.3956,8.5678,Hospital,Private
+301,"Zieme, Doyle and Kunze Pharmacy",Tuttlingen,Germany,47.985,8.8233,Pharmacy,Retail
+302,Crist Inc Pharmaceutical Ltd,Völklingen,Germany,49.25,6.8333,Hospital,Government
+303,Abernathy and Sons Pharmaceutical Limited,Dietzenbach,Germany,50.0086,8.7756,Hospital,Private
+304,Sauer-Herzog Pharmaceutical Limited,Bochum,Germany,51.4833,7.2167,Pharmacy,Retail
+305,Feest PLC Pharmaceutical Ltd,Neustadt,Germany,48.8111,9.3656,Hospital,Private
+306,McCullough LLC Pharmaceutical Ltd,Lage,Germany,51.9833,8.8,Pharmacy,Retail
+307,"Sanford, Franecki and Greenholt Pharma Plc",Waltrop,Germany,51.6167,7.3833,Hospital,Government
+308,Koss-Beier Pharmaceutical Limited,Rastatt,Germany,48.8572,8.2031,Pharmacy,Institution
+309,Crist Ltd Pharma Plc,Willich,Germany,51.2631,6.5492,Hospital,Government
+310,Powlowski-Buckridge Pharmacy,Albstadt,Germany,48.2119,9.0239,Pharmacy,Retail
+311,Zemlak-Witting,Cuxhaven,Germany,53.8667,8.7,Pharmacy,Retail
+312,Kozey-Schroeder Pharma Plc,Langenhagen,Germany,52.4394,9.74,Pharmacy,Retail
+313,Dach PLC,Deggendorf,Germany,48.8353,12.9644,Hospital,Private
+314,"Kshlerin, Ryan and Leuschke Pharm",Rostock,Germany,54.0833,12.1333,Hospital,Private
+315,"Beahan, Littel and Ondricka Pharma Plc",Salzwedel,Germany,52.85,11.15,Hospital,Government
+316,Ondricka Ltd,Saalfeld,Germany,50.6506,11.3542,Pharmacy,Institution
+317,"Daniel, Baumbach and Nitzsche",Steinheim am Main,Germany,50.1257,8.83,Hospital,Private
+318,Gulgowski-Vandervort Pharma Plc,Oranienburg,Germany,52.7544,13.2369,Pharmacy,Institution
+319,"Roob, Ernser and Kub Pharmaceutical Ltd",Oer-Erkenschwick,Germany,51.6422,7.2508,Hospital,Government
+320,Waelchi LLC Pharm,Sinsheim,Germany,49.25,8.8833,Pharmacy,Retail
+321,Raynor-Graham Pharma Plc,Saarbrücken,Germany,49.2333,7.0,Pharmacy,Institution
+322,"Sanford, Franecki and Greenholt Pharmaceutical Ltd",Rheine,Germany,52.2833,7.4333,Pharmacy,Institution
+323,Fahey-Flatley Pharmaceutical Ltd,Uelzen,Germany,52.9647,10.5658,Hospital,Government
+324,Marquardt PLC,Wetter (Ruhr),Germany,51.3881,7.395,Hospital,Government
+325,Denesik-Hintz Pharmaceutical Limited,Dülmen,Germany,51.8308,7.2783,Hospital,Government
+326,Dach PLC Pharm,Mainz,Germany,50.0,8.2711,Pharmacy,Institution
+327,Schulist-Zulauf,Erfurt,Germany,50.9787,11.0328,Pharmacy,Institution
+328,Sauer and Sons,Mechernich,Germany,50.6,6.65,Pharmacy,Retail
+329,Trantow LLC Pharm,Harsewinkel,Germany,51.9667,8.2331,Pharmacy,Institution
+330,Marquardt-Ryan Pharm,Königswinter,Germany,50.6833,7.1833,Hospital,Government
+331,Hansen Group Pharmacy,Warendorf,Germany,51.9539,7.9933,Hospital,Government
+332,"Johns, Mueller and Nitzsche",Magdeburg,Germany,52.1278,11.6292,Hospital,Government
+333,"Will, McGlynn and Fritsch Pharmaceutical Limited",Alzey,Germany,49.7517,8.1161,Hospital,Government
+334,VonRueden-Adams Pharmaceutical Limited,Fellbach,Germany,48.8086,9.2758,Pharmacy,Institution
+335,"Parisian, Hagenes and Skiles Pharmacy",Buxtehude,Germany,53.4769,9.7011,Hospital,Government
+336,"Paucek, Keeling and Bruen Pharma Plc",Sankt Wendel,Germany,49.4667,7.1667,Hospital,Government
+337,Quigley-Heathcote Pharm,Witten,Germany,51.4333,7.3333,Hospital,Private
+338,Jast-Cruickshank Pharmacy,Sankt Ingbert,Germany,49.3,7.1167,Hospital,Government
+339,Block-Romaguera Pharmacy,Werl,Germany,51.5528,7.9139,Hospital,Private
+340,Kris LLC Pharmaceutical Ltd,Lichtenfels,Germany,50.1333,11.0333,Hospital,Private
+341,"Koch, Borer and Hagenes Pharm",Waiblingen,Germany,48.8303,9.3169,Hospital,Private
+342,Leffler-Russel Pharmaceutical Limited,Hennigsdorf,Germany,52.6378,13.2036,Pharmacy,Institution
+343,Kihn Group Pharmaceutical Limited,Norderstedt,Germany,53.7064,10.0103,Hospital,Government
+344,"Fritsch, Hodkiewicz and Sipes Pharmacy",Haldensleben,Germany,52.2833,11.4167,Pharmacy,Retail
+345,Corkery-Kovacek Pharm,Kehl,Germany,48.5711,7.8089,Hospital,Private
+346,Roob PLC Pharmaceutical Limited,Frechen,Germany,50.9167,6.8167,Pharmacy,Retail
+347,Senger-Kirlin Pharmaceutical Ltd,Friedrichsdorf,Germany,50.2569,8.6418,Hospital,Private
+348,Hane Ltd,Nürtingen,Germany,48.6267,9.3353,Hospital,Government
+349,"Harris, Daugherty and Okuneva Pharm",Neuwied,Germany,50.4286,7.4614,Hospital,Government
+350,Ward Group Pharm,Mönchengladbach,Germany,51.2,6.4333,Hospital,Private
+351,"Haag, Bradtke and Terry",Osterholz-Scharmbeck,Germany,53.2269,8.7947,Pharmacy,Institution
+352,Buckridge-Strosin Pharma Plc,Neuruppin,Germany,52.9222,12.8,Hospital,Private
+353,"Kilback, Beer and Batz",Ratingen,Germany,51.3,6.85,Pharmacy,Institution
+354,Homenick-Larson,Lübbecke,Germany,52.3081,8.6231,Pharmacy,Institution
+355,"Kirlin, Hamill and Dickinson Pharmaceutical Limited",Pirna,Germany,50.9622,13.9403,Hospital,Private
+356,"Zieme, Doyle and Kunze Pharm",Stuttgart,Germany,48.7761,9.1775,Pharmacy,Retail
+357,"Steuber, Skiles and Kilback Pharmaceutical Limited",Bonn,Germany,50.7339,7.0997,Pharmacy,Retail
+358,Botsford and Sons Pharma Plc,Bad Hersfeld,Germany,50.8683,9.7067,Hospital,Government
+359,"Schowalter, Runolfsson and VonRueden Pharmaceutical Limited",Neuss,Germany,51.2003,6.6939,Hospital,Private
+360,Gleason PLC Pharmaceutical Limited,Niederkassel,Germany,50.8167,7.0333,Pharmacy,Retail
+361,Durgan-Rice Pharmaceutical Ltd,Leichlingen,Germany,51.1167,7.0167,Hospital,Government
+362,Medhurst-Beer,Aachen,Germany,50.7762,6.0838,Hospital,Private
+363,Daugherty-Rempel Pharm,Neu Isenburg,Germany,50.0558,8.6971,Hospital,Private
+364,Rosenbaum-Tromp Pharmacy,Lüdenscheid,Germany,51.2198,7.6273,Hospital,Private
+365,Marquardt-Ryan Pharma Plc,Sondershausen,Germany,51.3667,10.8667,Pharmacy,Institution
+366,Barton Ltd Pharmaceutical Limited,Celle,Germany,52.6256,10.0825,Pharmacy,Retail
+367,Kutch-Marks Pharma Plc,Koblenz,Germany,50.3597,7.5978,Hospital,Government
+368,Cremin-Zemlak Pharma Plc,Haan,Germany,51.1931,7.0131,Pharmacy,Institution
+369,Hermiston and Sons Pharmacy,Plauen,Germany,50.495,12.1383,Pharmacy,Institution
+370,Abernathy Group Pharmacy,Melle,Germany,52.2031,8.3361,Pharmacy,Retail
+371,Upton PLC Pharmaceutical Limited,Mühlhausen,Germany,51.2167,10.45,Pharmacy,Retail
+372,Hayes-Kilback Pharmaceutical Limited,Springe,Germany,52.2167,9.55,Pharmacy,Retail
+373,Runolfsson-Powlowski Pharmaceutical Limited,Wiesbaden,Germany,50.0825,8.24,Pharmacy,Institution
+374,Veum and Sons Pharmaceutical Ltd,Dorsten,Germany,51.66,6.9642,Pharmacy,Institution
+375,Kuhic LLC Pharmaceutical Limited,Gronau,Germany,52.2125,7.0417,Pharmacy,Institution
+376,Wolff Group Pharmaceutical Ltd,Alsdorf,Germany,50.8744,6.1615,Hospital,Private
+377,Zemlak Group Pharm,Vechta,Germany,52.7306,8.2886,Hospital,Private
+378,"Grimes, Jacobs and Durgan Pharma Plc",Gütersloh,Germany,51.9,8.3833,Hospital,Government
+379,Graham and Sons Pharma Plc,Bad Salzungen,Germany,50.8117,10.2333,Pharmacy,Institution
+380,Mraz Group Pharmaceutical Limited,Schweinfurt,Germany,50.05,10.2333,Pharmacy,Retail
+381,Emard-O'Connell Pharmaceutical Ltd,Kevelaer,Germany,51.5833,6.25,Pharmacy,Retail
+382,Schulist LLC Pharmaceutical Limited,Neustadt am Rübenberge,Germany,52.5055,9.4636,Pharmacy,Institution
+383,Pfeffer-Kirlin Pharmaceutical Limited,Selm,Germany,51.6833,7.4833,Hospital,Private
+384,Buckridge Inc Pharmaceutical Limited,Senftenberg,Germany,51.5167,14.0167,Hospital,Government
+385,Barrows Inc Pharmacy,Teltow,Germany,52.4022,13.2706,Hospital,Private
+386,West Group Pharma Plc,Aschersleben,Germany,51.75,11.4667,Pharmacy,Retail
+387,Balistreri-Watsica Pharma Plc,Siegen,Germany,50.8756,8.0167,Pharmacy,Institution
+388,Ondricka-Waters Pharmaceutical Limited,Rinteln,Germany,52.1906,9.0814,Hospital,Government
+389,Rogahn-Klein Pharma Plc,Leinfelden-Echterdingen,Germany,48.6928,9.1428,Pharmacy,Institution
+390,Gerlach LLC Pharma Plc,Torgau,Germany,51.5603,13.0056,Hospital,Private
+391,"Barrows, Zboncak and Reichert Pharma Plc",Burg,Germany,52.2725,11.855,Pharmacy,Institution
+392,Schaefer-Rolfson Pharma Plc,Freiberg,Germany,50.9119,13.3428,Pharmacy,Retail
+393,"Hansen, Fadel and Schroeder Pharmaceutical Ltd",Herrenberg,Germany,48.5967,8.8708,Pharmacy,Retail
+394,"Towne, Cummerata and Blanda Pharmaceutical Limited",Naumburg,Germany,51.1521,11.8098,Hospital,Private
+395,Franecki Inc Pharmacy,Norden,Germany,53.5967,7.2056,Pharmacy,Institution
+396,Torp-Fisher,Grevenbroich,Germany,51.0883,6.5875,Pharmacy,Institution
+397,Steuber Ltd Pharm,Gera,Germany,50.8782,12.0824,Hospital,Government
+398,Schulist-Zulauf Pharmaceutical Ltd,Kornwestheim,Germany,48.8597,9.185,Pharmacy,Retail
+399,Rohan and Sons Pharma Plc,Prenzlau,Germany,53.3167,13.8667,Pharmacy,Institution
+400,"Rodriguez, Stokes and Dickens Pharma Plc",Sömmerda,Germany,51.1617,11.1169,Hospital,Government
+401,"Hahn, Rutherford and Gislason Pharmacy",Wolfenbüttel,Germany,52.1622,10.5369,Pharmacy,Retail
+402,Abernathy Group,Horb am Neckar,Germany,48.445,8.6911,Hospital,Government
+403,"Steuber, Hills and Botsford Pharma Plc",Schmallenberg,Germany,51.1333,8.3,Pharmacy,Institution
+404,Sipes and Sons Pharmaceutical Limited,Krefeld,Germany,51.3333,6.5667,Pharmacy,Institution
+405,Zemlak-Witting Pharmaceutical Limited,Plettenberg,Germany,51.2128,7.8715,Hospital,Government
+406,Prohaska-Kuhic Pharma Plc,Pirmasens,Germany,49.2,7.6,Hospital,Government
+407,"Reinger, Kihn and Goyette Pharma Plc",Euskirchen,Germany,50.6597,6.7917,Pharmacy,Retail
+408,Welch-Langworth Pharm,Papenburg,Germany,53.0667,7.4,Hospital,Private
+409,Funk PLC Pharm,Delmenhorst,Germany,53.0506,8.6317,Pharmacy,Institution
+410,Turner Ltd Pharmacy,Dortmund,Germany,51.5139,7.4653,Pharmacy,Retail
+411,Hermiston and Sons Pharmaceutical Ltd,Geislingen an der Steige,Germany,48.6244,9.8306,Pharmacy,Retail
+412,Ward Group Pharma Plc,Barsinghausen,Germany,52.3031,9.4606,Pharmacy,Retail
+413,Gerlach LLC Pharmacy,Hofheim,Germany,50.0876,8.4447,Pharmacy,Retail
+414,Raynor-Graham,Wedel,Germany,53.5833,9.7,Pharmacy,Retail
+415,"Cormier, Dietrich and Zulauf Pharmacy",Riesa,Germany,51.3081,13.2939,Pharmacy,Institution
+416,Bashirian Group,Pforzheim,Germany,48.895,8.705,Pharmacy,Institution
+417,Watsica-Kovacek Pharmacy,Hameln,Germany,52.1031,9.36,Pharmacy,Institution
+418,Rohan PLC Pharmacy,Schwäbisch Hall,Germany,49.1122,9.7375,Pharmacy,Institution
+419,Collins-Schmidt Pharma Plc,Marburg,Germany,50.8167,8.7667,Pharmacy,Retail
+420,Kohler-Bednar Pharmaceutical Ltd,Lübeck,Germany,53.8697,10.6864,Hospital,Government
+421,Turner Ltd,Porta Westfalica,Germany,52.2167,8.9333,Hospital,Private
+422,Hermiston LLC Pharmaceutical Limited,Gevelsberg,Germany,51.3265,7.3559,Pharmacy,Retail
+423,"Ondricka, Rosenbaum and Beahan Pharm",Iserlohn,Germany,51.3833,7.6667,Hospital,Government
+424,"Schinner, Gaylord and Treutel Pharmacy",Hamm,Germany,51.6667,7.8167,Pharmacy,Retail
+425,"Reinger, Kihn and Goyette Pharmaceutical Limited",Overath,Germany,50.95,7.3,Hospital,Government
+426,Leannon-West Pharmaceutical Limited,Bocholt,Germany,51.8333,6.6167,Hospital,Government
+427,Durgan-Rice Pharmacy,Dormagen,Germany,51.0964,6.84,Pharmacy,Institution
+428,Welch-Orn Pharmacy,Bingen am Rhein,Germany,49.9669,7.895,Hospital,Government
+429,Emard-O'Connell Pharm,Rosenheim,Germany,47.8561,12.1289,Pharmacy,Retail
+430,Osinski-Collins Pharma Plc,Potsdam,Germany,52.4,13.0667,Hospital,Government
+431,Skiles-McKenzie Pharmaceutical Limited,Westerstede,Germany,53.25,7.9167,Hospital,Government
+432,"Johnson, Friesen and Torphy Pharm",Ravensburg,Germany,47.7831,9.6114,Hospital,Private
+433,Kling Inc,Itzehoe,Germany,53.925,9.5164,Hospital,Private
+434,Mraz-Kutch Pharmacy,Bad Salzuflen,Germany,52.0875,8.7506,Hospital,Government
+435,"Prohaska, Bogisich and Gutkowski Pharmaceutical Limited",Weinheim,Germany,49.5561,8.6697,Hospital,Government
+436,Fadel-West Pharmaceutical Ltd,Filderstadt,Germany,48.6667,9.2167,Pharmacy,Retail
+437,"Nitzsche, Effertz and Maggio",Bayreuth,Germany,49.9481,11.5783,Hospital,Private
+438,Kris LLC Pharmacy,Halberstadt,Germany,51.8958,11.0467,Hospital,Private
+439,Legros-Runte Pharmaceutical Ltd,Baden-Baden,Germany,48.7619,8.2408,Hospital,Government
+440,Schuppe Inc Pharm,Traunstein,Germany,47.8683,12.6433,Pharmacy,Institution
+441,Barrows Inc Pharmaceutical Limited,Speyer,Germany,49.3194,8.4311,Pharmacy,Retail
+442,"Corkery, Trantow and Ferry Pharma Plc",Geesthacht,Germany,53.4381,10.3747,Pharmacy,Institution
+443,Osinski-Botsford Pharm,Meerbusch,Germany,51.2667,6.6667,Pharmacy,Retail
+444,Lockman-Welch Pharmaceutical Limited,Zweibrücken,Germany,49.2494,7.3608,Pharmacy,Retail
+445,D'Amore and Sons Pharm,Görlitz,Germany,51.1528,14.9872,Pharmacy,Retail
+446,Lockman-Welch,Kiel,Germany,54.3233,10.1394,Hospital,Government
+447,Reilly Ltd Pharma Plc,Königsbrunn,Germany,48.2689,10.8908,Hospital,Private
+448,Skiles-McKenzie Pharmacy,Dreieich,Germany,50.0189,8.6961,Hospital,Government
+449,"Barrows, Zboncak and Reichert Pharm",Aurich,Germany,53.4714,7.4836,Pharmacy,Institution
+450,"Effertz, Heaney and Tillman Pharma Plc",Bad Nauheim,Germany,50.3667,8.75,Hospital,Government
+451,"Herman, Rice and Rippin Pharmaceutical Limited",Schorndorf,Germany,48.8,9.5333,Pharmacy,Institution
+452,"Effertz, Heaney and Tillman Pharm",Regensburg,Germany,49.0167,12.0833,Hospital,Government
+453,"Watsica, Larson and Labadie Pharma Plc",Husum,Germany,54.4769,9.0511,Hospital,Private
+454,Friesen Group,Meiningen,Germany,50.55,10.4167,Pharmacy,Retail
+455,Reilly Ltd Pharmacy,Sindelfingen,Germany,48.7133,9.0028,Hospital,Private
+456,"Roob, Ernser and Kub Pharmacy",Göttingen,Germany,51.5339,9.9356,Pharmacy,Retail
+457,"Bernier, Murphy and Rau Pharmaceutical Limited",Oberhausen,Germany,51.4699,6.8514,Hospital,Government
+458,"Lebsack, Yost and Heller Pharma Plc",Ibbenbüren,Germany,52.2778,7.7167,Pharmacy,Retail
+459,"Prohaska, Bogisich and Gutkowski Pharm",Bad Oldesloe,Germany,53.8117,10.3742,Hospital,Private
+460,"Erdman, Senger and Oberbrunner Pharmacy",Straubing,Germany,48.8772,12.5758,Pharmacy,Retail
+461,Dach Ltd Pharma Plc,Karlsruhe,Germany,49.0167,8.4,Hospital,Private
+462,Funk PLC Pharma Plc,Rietberg,Germany,51.8,8.4333,Pharmacy,Institution
+463,Kertzmann-Ward Pharmaceutical Limited,Goslar,Germany,51.906,10.4292,Pharmacy,Retail
+464,Herman-Koss Pharmaceutical Limited,Mosbach,Germany,49.35,9.1333,Hospital,Government
+465,Armstrong Inc Pharm,Pfaffenhofen,Germany,48.5333,11.5167,Hospital,Government
+466,Barton Ltd Pharm,Rendsburg,Germany,54.3044,9.6644,Pharmacy,Institution
+467,Miller-Satterfield Pharm,Heinsberg,Germany,51.0631,6.0964,Pharmacy,Institution
+468,Haley PLC Pharmacy,Kassel,Germany,51.3158,9.4979,Pharmacy,Retail
+469,"Pfannerstill, Upton and Balistreri Pharmacy",Dillingen,Germany,48.5667,10.4667,Hospital,Government
+470,Cassin PLC Pharmaceutical Limited,Weißenfels,Germany,51.2,11.9667,Pharmacy,Retail
+471,Crona Group,Viersen,Germany,51.2556,6.3917,Hospital,Government
+472,Stehr-Champlin Pharmacy,Eberswalde,Germany,52.8331,13.8331,Pharmacy,Retail
+473,Schaefer LLC Pharma Plc,Stendal,Germany,52.6,11.85,Pharmacy,Institution
+474,"Hirthe, Williamson and Macejkovic",Schwandorf,Germany,49.3236,12.0993,Pharmacy,Retail
+475,Kozey Ltd Pharma Plc,Griesheim,Germany,49.8594,8.5525,Pharmacy,Institution
+476,"Moen, Murazik and Smith Pharmaceutical Ltd",Ingolstadt,Germany,48.7636,11.4261,Hospital,Government
+477,Mann-Waelchi Pharma Plc,Ulm,Germany,48.3984,9.9916,Hospital,Private
+478,"Block, Thiel and Kuphal Pharm",Taunusstein,Germany,50.1435,8.1606,Hospital,Government
+479,Predovic LLC Pharmaceutical Limited,Ingelheim,Germany,49.9747,8.0564,Pharmacy,Institution
+480,Goldner-Tillman Pharm,Dachau,Germany,48.2603,11.4342,Hospital,Government
+481,Buckridge Inc Pharm,Brühl,Germany,50.8333,6.9,Hospital,Government
+482,Kihn Group,Kleve,Germany,51.79,6.14,Pharmacy,Institution
+483,Dach Ltd Pharm,Saarlouis,Germany,49.3167,6.75,Pharmacy,Retail
+484,Medhurst-Beer Pharm,Viernheim,Germany,49.538,8.5792,Pharmacy,Institution
+485,Terry-Kub Pharmaceutical Ltd,Wegberg,Germany,51.1333,6.2667,Pharmacy,Retail
+486,Pfeffer-Kirlin Pharmacy,Ahlen,Germany,51.7633,7.8911,Pharmacy,Institution
+487,Kreiger Inc,Burgdorf,Germany,52.45,10.0083,Pharmacy,Retail
+488,"Wisozk, Brekke and Bartoletti Pharmacy",Falkensee,Germany,52.5583,13.0917,Pharmacy,Institution
+489,Lemke Ltd Pharma Plc,Leverkusen,Germany,51.0333,6.9833,Pharmacy,Retail
+490,Buckridge-Davis Pharmaceutical Limited,Forchheim,Germany,49.7197,11.0581,Hospital,Private
+491,Jakubowski Inc Pharmacy,Gladbeck,Germany,51.5713,6.9827,Pharmacy,Institution
+492,Fahey-Prosacco Pharmacy,Jena,Germany,50.9272,11.5864,Hospital,Government
+493,Fritsch-Hauck Pharm,Fürstenwalde,Germany,52.3667,14.0667,Hospital,Government
+494,Leannon-West,Rösrath,Germany,50.9,7.1833,Hospital,Private
+495,Streich PLC Pharm,Radolfzell am Bodensee,Germany,47.7369,8.9697,Hospital,Private
+496,"Koelpin, Luettgen and Abernathy Pharmaceutical Ltd",Mörfelden-Walldorf,Germany,49.9896,8.5661,Hospital,Private
+497,"Schinner, Gaylord and Treutel Pharmaceutical Limited",Ahrensburg,Germany,53.6747,10.2411,Hospital,Private
+498,Gottlieb-Koss Pharm,Hattingen,Germany,51.3992,7.1858,Pharmacy,Institution
+499,Feest-Roob Pharmaceutical Limited,Osterode,Germany,51.7286,10.2522,Pharmacy,Institution
+500,Rogahn-Klein Pharm,Donauwörth,Germany,48.7184,10.777,Hospital,Private
+501,Runolfsson-Powlowski Pharmacy,Crailsheim,Germany,49.1347,10.0706,Hospital,Government
+502,"Kertzmann, Quitzon and Harris Pharmaceutical Limited",Forst,Germany,51.7333,14.6333,Pharmacy,Retail
+503,Koch-Osinski Pharmaceutical Ltd,Sankt Augustin,Germany,50.77,7.1867,Hospital,Private
+504,Cartwright-Fay,Stolberg,Germany,50.7667,6.2333,Hospital,Government
+505,Rutherford and Sons Pharm,Meppen,Germany,52.6906,7.291,Hospital,Government
+506,"Johns, Mueller and Nitzsche Pharma Plc",Hemer,Germany,51.3833,7.7667,Pharmacy,Institution
+507,Murray PLC,Wesel,Germany,51.6586,6.6178,Pharmacy,Retail
+508,"Moen, Murazik and Smith Pharm",Altenburg,Germany,50.985,12.4333,Hospital,Government
+509,Yundt-Crona Pharm,Pinneberg,Germany,53.6591,9.8009,Hospital,Government
+510,Lockman Ltd Pharma Plc,Bad Tölz,Germany,47.7603,11.5567,Hospital,Government
+511,"Wuckert, Kreiger and Howell Pharma Plc",Lippstadt,Germany,51.6667,8.35,Hospital,Government
+512,Balistreri Group Pharm,Böblingen,Germany,48.6833,9.0,Hospital,Government
+513,"Hammes, Bashirian and Pacocha",Aschaffenburg,Germany,49.9757,9.1478,Pharmacy,Institution
+514,Schmitt LLC Pharma Plc,Konstanz,Germany,47.6633,9.1753,Pharmacy,Institution
+515,Doyle-Tillman Pharmaceutical Limited,Zirndorf,Germany,49.45,10.95,Pharmacy,Institution
+516,"Wuckert, Kreiger and Howell",Idar-Oberstein,Germany,49.7019,7.3253,Hospital,Private
+517,Koss Ltd Pharma Plc,Dingolfing,Germany,48.6333,12.5,Pharmacy,Retail
+518,Kozey-Emmerich,Würselen,Germany,50.8247,6.1275,Hospital,Government
+519,Pfannerstill Group,Calw,Germany,48.7144,8.7375,Hospital,Private
+520,Jakubowski Inc Pharma Plc,Tönisvorst,Germany,51.3208,6.4931,Hospital,Government
+521,"Wunsch, Mills and Walter Pharm",Kempen,Germany,51.3658,6.4194,Pharmacy,Retail
+522,"Hahn, Rutherford and Gislason Pharm",Kulmbach,Germany,50.1,11.4333,Pharmacy,Retail
+523,Leuschke PLC Pharmaceutical Ltd,Worms,Germany,49.6319,8.3653,Pharmacy,Institution
+524,Hartmann-Wolf Pharmaceutical Limited,Kitzingen,Germany,49.7333,10.1667,Hospital,Private
+525,"Bogan, Jacobs and Kris Pharmaceutical Ltd",Heppenheim,Germany,49.6415,8.645,Hospital,Government
+526,Legros-Runte Pharmaceutical Limited,Neckarsulm,Germany,49.1917,9.2244,Hospital,Private
+527,Pfeffer-Hodkiewicz,Nordenham,Germany,53.5,8.4667,Hospital,Private
+528,"Wunsch, Mills and Walter Pharmaceutical Limited",Münster,Germany,51.9625,7.6256,Pharmacy,Retail
+529,Gulgowski-Vandervort Pharm,Rathenow,Germany,52.6,12.3333,Hospital,Private
+530,Mraz-Kutch Pharma Plc,Butzbach,Germany,50.4367,8.6622,Pharmacy,Retail
+531,Mills Inc Pharmaceutical Ltd,Emsdetten,Germany,52.1728,7.5344,Hospital,Private
+532,Block-Romaguera,Remscheid,Germany,51.1906,7.2247,Pharmacy,Institution
+533,Breitenberg-Kuhn,Duisburg,Germany,51.4322,6.7611,Pharmacy,Institution
+534,Bartoletti-Altenwerth Pharm,Aalen,Germany,48.8372,10.0936,Hospital,Private
+535,Hane Ltd Pharmaceutical Ltd,Aichach,Germany,48.45,11.1333,Hospital,Private
+536,Mayert-Weber Pharmaceutical Ltd,Apolda,Germany,51.0247,11.5139,Pharmacy,Institution
+537,Powlowski-Buckridge,Sprockhövel,Germany,51.3614,7.244,Hospital,Government
+538,Balistreri Group Pharmacy,Bad Honnef am Rhein,Germany,50.645,7.2269,Pharmacy,Institution
+539,"Wintheiser, Breitenberg and Gottlieb",Bünde,Germany,52.2,8.6,Hospital,Private
+540,Jacobs-Jones Pharmaceutical Ltd,Flensburg,Germany,54.7819,9.4367,Pharmacy,Institution
+541,Feest-Kshlerin,Velbert,Germany,51.34,7.0416,Hospital,Government
+542,West Group Pharm,Langenfeld,Germany,51.1167,6.95,Pharmacy,Institution
+543,"Kshlerin, Ryan and Leuschke",Goch,Germany,51.6839,6.1619,Pharmacy,Institution
+544,Senger-Kirlin Pharma Plc,Soest,Germany,51.5711,8.1092,Hospital,Government
+545,Funk and Sons Pharm,Gießen,Germany,50.5833,8.6667,Pharmacy,Institution
+546,"Hills, Stroman and Ernser",Rheda-Wiedenbrück,Germany,51.8417,8.3,Pharmacy,Retail
+547,Predovic LLC Pharmaceutical Ltd,Hannover,Germany,52.3744,9.7386,Pharmacy,Institution
+548,Mann-Waelchi Pharmacy,Achim,Germany,53.013,9.033,Hospital,Private
+549,Sauer-Herzog Pharmacy,Winsen,Germany,53.3667,10.2167,Pharmacy,Retail
+550,Kozey-Emmerich Pharmacy,Marktoberdorf,Germany,47.7667,10.6167,Hospital,Private
+551,"Yundt, Leuschke and Ward",Wittlich,Germany,49.9869,6.8897,Pharmacy,Institution
+552,Waelchi LLC Pharmaceutical Limited,Essen,Germany,51.4508,7.0131,Hospital,Private
+553,Sipes and Sons Pharma Plc,Radebeul,Germany,51.1033,13.67,Hospital,Private
+554,Terry-Kub Pharma Plc,Weimar,Germany,50.9833,11.3167,Pharmacy,Retail
+555,Murray PLC Pharma Plc,Reinbek,Germany,53.5089,10.2483,Hospital,Private
+556,Veum-Kerluke Pharma Plc,Wismar,Germany,53.8925,11.465,Pharmacy,Retail
+557,"Hammes, Bashirian and Pacocha Pharmacy",Schwelm,Germany,51.2904,7.2972,Pharmacy,Institution
+558,"Gerhold, Mills and Effertz",Ansbach,Germany,49.3,10.5833,Hospital,Government
+559,Mayert-Weber,Homburg,Germany,49.3167,7.3333,Pharmacy,Retail
+560,"Kub, Von and Herzog Pharmaceutical Limited",Freudenstadt,Germany,48.4633,8.4111,Hospital,Private
+561,McDermott Inc Pharmacy,Frankenthal,Germany,49.5333,8.35,Hospital,Private
+562,"Upton, Abernathy and Goodwin Pharmaceutical Limited",Detmold,Germany,51.9378,8.8833,Hospital,Government
+563,Lindgren-Simonis Pharmacy,Neumarkt,Germany,49.2833,11.4667,Hospital,Government
+564,Cummings LLC Pharmaceutical Ltd,Sundern,Germany,51.3167,8.0,Pharmacy,Retail
+565,Kris LLC Pharmaceutical Limited,Herten,Germany,51.6,7.1333,Hospital,Government
+566,"Koelpin, Luettgen and Abernathy Pharmacy",Wuppertal,Germany,51.2667,7.1833,Hospital,Private
+567,Okuneva-Corkery Pharma Plc,Bornheim,Germany,50.7592,7.005,Pharmacy,Retail
+568,Cartwright-Fay Pharmaceutical Ltd,Wangen im Allgäu,Germany,47.6858,9.8342,Pharmacy,Retail
+569,"Hills, Stroman and Ernser Pharmaceutical Ltd",Zittau,Germany,50.8961,14.8072,Pharmacy,Institution
+570,Kozey-Schroeder Pharm,Heiligenhaus,Germany,51.3265,6.971,Hospital,Private
+571,"Crist, Wisoky and Nolan Pharm",Bielefeld,Germany,52.0167,8.5333,Hospital,Government
+572,Hill Ltd Pharma Plc,Seelze,Germany,52.3961,9.5981,Hospital,Government
+573,Welch-Orn Pharm,Emden,Germany,53.3669,7.2061,Hospital,Private
+574,Feest-Roob Pharmacy,Nordhausen,Germany,51.505,10.7911,Hospital,Government
+575,Ritchie-Rodriguez Pharmacy,Herford,Germany,52.1146,8.6734,Pharmacy,Retail
+576,"Buckridge, Hand and Hyatt",Dinslaken,Germany,51.5667,6.7333,Pharmacy,Institution
+577,"Parisian, Hagenes and Skiles Pharm",Greiz,Germany,50.6547,12.1997,Hospital,Government
+578,Purdy Ltd Pharm,Korbach,Germany,51.2719,8.8731,Pharmacy,Retail
+579,"Daniel, Baumbach and Nitzsche Pharmacy",Kempten,Germany,47.7333,10.3167,Pharmacy,Retail
+580,"Kuphal, Herzog and Purdy Pharmaceutical Limited",Erding,Germany,48.3001,11.9082,Pharmacy,Retail
+581,"Buckridge, Dach and Carroll Pharmaceutical Ltd",Baunatal,Germany,51.2589,9.4183,Pharmacy,Retail
+582,"Heathcote, Grant and Witting Pharmaceutical Limited",Balingen,Germany,48.2731,8.8506,Pharmacy,Institution
+583,Romaguera-Fay Pharmaceutical Ltd,Langen,Germany,49.9893,8.6803,Hospital,Government
+584,"Wiegand, Jast and Yost Pharmaceutical Ltd",Ludwigshafen,Germany,49.4811,8.4353,Pharmacy,Institution
+585,Schaefer Group,Olpe,Germany,51.0289,7.8514,Pharmacy,Institution
+586,"Pfannerstill, Upton and Balistreri Pharm",Ilmenau,Germany,50.6872,10.9142,Pharmacy,Institution
+587,Kuhic LLC,Schleswig,Germany,54.5153,9.5697,Pharmacy,Retail
+588,Crona PLC Pharmaceutical Ltd,Schloß Holte-Stukenbrock,Germany,51.8833,8.6167,Pharmacy,Institution
+589,"Blick, Pacocha and Schowalter Pharmacy",Würzburg,Germany,49.7944,9.9294,Hospital,Government
+590,"Romaguera, Moen and Hagenes Pharm",Unterschleißheim,Germany,48.2833,11.5667,Pharmacy,Retail
+591,McDermott Group Pharmacy,Leonberg,Germany,48.8014,9.0131,Hospital,Private
+592,"Parker, Green and Emmerich Pharmacy",Frankfurt (Oder),Germany,52.35,14.55,Hospital,Government
+593,Will and Sons Pharmacy,Suhl,Germany,50.6106,10.6931,Hospital,Private
+594,Stanton-Cole Pharma Plc,Andernach,Germany,50.4397,7.4017,Hospital,Private
+595,Paucek PLC Pharm,Bruchsal,Germany,49.1333,8.6,Pharmacy,Institution
+596,Harris-Conroy Pharmacy,Wilhelmshaven,Germany,53.5167,8.1333,Pharmacy,Retail
+597,"Wintheiser, Breitenberg and Gottlieb Pharma Plc",Warstein,Germany,51.45,8.3667,Pharmacy,Institution
+598,"Kutch, Daniel and Ortiz Pharm",Gummersbach,Germany,51.0333,7.5667,Hospital,Private
+599,Keeling LLC Pharmaceutical Limited,Gelsenkirchen,Germany,51.5167,7.1,Hospital,Government
+600,Fritsch LLC Pharmaceutical Ltd,Mülheim,Germany,51.4283,6.8789,Hospital,Government
+601,Herman-Koss Pharmaceutical Ltd,Gifhorn,Germany,52.4886,10.5464,Hospital,Private
+602,"Block, Thiel and Kuphal Pharmaceutical Limited",Ludwigsburg,Germany,48.8975,9.1919,Hospital,Government
+603,Rosenbaum-Tromp Pharm,Bühl,Germany,48.6953,8.135,Hospital,Government
+604,Carter-Conn Pharmaceutical Ltd,Günzburg,Germany,48.4525,10.2711,Pharmacy,Institution
+605,"Romaguera, Moen and Hagenes Pharmacy",Castrop-Rauxel,Germany,51.55,7.3167,Hospital,Government
+606,Buckridge-Davis Pharmaceutical Ltd,Herne,Germany,51.5426,7.219,Pharmacy,Retail
+607,Osinski-Collins,Rheinfelden (Baden),Germany,47.5611,7.7917,Hospital,Private
+608,Koss Ltd Pharmaceutical Ltd,Löhne,Germany,52.2,8.7,Pharmacy,Retail
+609,Reichel Inc,Trier,Germany,49.7567,6.6414,Hospital,Government
+610,Gottlieb-Cruickshank Pharm,Schwabach,Germany,49.3292,11.0208,Pharmacy,Retail
+611,White Inc Pharmacy,Bad Homburg,Germany,50.2292,8.6105,Hospital,Government
+612,Paucek PLC,Espelkamp,Germany,52.3772,8.6328,Pharmacy,Retail
+613,"Greenholt, Donnelly and O'Reilly Pharmaceutical Ltd",Villingen-Schwenningen,Germany,48.0603,8.4586,Pharmacy,Retail
+614,"Spinka, Schowalter and Conn",Bergheim,Germany,50.9667,6.65,Pharmacy,Retail
+615,"Nolan, DuBuque and Schultz Pharmacy",Wernigerode,Germany,51.835,10.7853,Pharmacy,Retail
+616,Harris-Conroy Pharm,Oelde,Germany,51.8258,8.1436,Pharmacy,Retail
+617,"Torphy, Pfeffer and Jakubowski Pharm",Limburg,Germany,50.3833,8.0667,Pharmacy,Retail
+618,Prohaska-Kuhic Pharmaceutical Limited,Wittmund,Germany,53.5747,7.7808,Hospital,Private
+619,Veum and Sons Pharmaceutical Limited,Landsberg,Germany,48.0528,10.8689,Pharmacy,Institution
+620,Hoeger Ltd,Heidenheim,Germany,48.6761,10.1544,Pharmacy,Retail
+621,"Blanda, Stehr and Gleason Pharmaceutical Ltd",Kamen,Germany,51.5917,7.6653,Pharmacy,Institution
+622,McDermott Inc Pharma Plc,Staßfurt,Germany,51.8667,11.5667,Pharmacy,Retail
+623,Armstrong Inc Pharma Plc,Passau,Germany,48.5667,13.4667,Pharmacy,Retail
+624,"Koch, Borer and Hagenes Pharmaceutical Ltd",Lauf,Germany,49.5103,11.2772,Hospital,Private
+625,Walter Ltd Pharmaceutical Limited,Neubrandenburg,Germany,53.5569,13.2608,Pharmacy,Institution
+626,Hayes-Kilback Pharma Plc,Arnsberg,Germany,51.3967,8.0644,Pharmacy,Institution
+627,Rohan Inc Pharmaceutical Limited,Amberg,Germany,49.4444,11.8483,Pharmacy,Retail
+628,Beier PLC Pharm,Hückelhoven,Germany,51.0608,6.2197,Pharmacy,Institution
+629,"Reynolds, Jast and Mante",Achern,Germany,48.6314,8.0739,Pharmacy,Retail
+630,Abernathy and Sons,Freiburg im Breisgau,Germany,47.9947,7.8497,Pharmacy,Retail
+631,Wehner-Stehr Pharm,Chemnitz,Germany,50.8333,12.9167,Hospital,Government
+632,Gleason PLC Pharma Plc,Bad Reichenhall,Germany,47.7247,12.8769,Pharmacy,Retail
+633,Smith Inc Pharmacy,Kirchheim unter Teck,Germany,48.6483,9.4511,Pharmacy,Institution
+634,Vandervort LLC Pharmaceutical Ltd,Rottweil,Germany,48.1681,8.6247,Hospital,Private
+635,"Wiegand, Jast and Yost",Korschenbroich,Germany,51.1833,6.5167,Pharmacy,Institution
+636,Parisian Ltd Pharma Plc,Paderborn,Germany,51.7167,8.7667,Hospital,Government
+637,Walsh-Brown Pharmaceutical Ltd,Bernburg,Germany,51.8,11.7333,Hospital,Private
+638,Kozey Ltd Pharmacy,Stralsund,Germany,54.3,13.0833,Pharmacy,Retail
+639,Quigley-Heathcote Pharmaceutical Ltd,Lohmar,Germany,50.8415,7.2166,Hospital,Government
+640,Rowe PLC,Lörrach,Germany,47.6156,7.6614,Hospital,Private
+641,Nader-Borer Pharmaceutical Limited,Grimma,Germany,51.2386,12.7253,Hospital,Private
+642,Bashirian-Kassulke Pharmacy,Kamp-Lintfort,Germany,51.5,6.5333,Hospital,Private
+643,Wolff Group,Pfungstadt,Germany,49.8056,8.6044,Pharmacy,Retail
+644,Hill-Daniel Pharmaceutical Ltd,Neumünster,Germany,54.0714,9.99,Hospital,Government
+645,"Watsica, Larson and Labadie Pharmaceutical Ltd",Nettetal,Germany,51.3167,6.2833,Hospital,Private
+646,Erdman PLC,Holzminden,Germany,51.8297,9.4483,Pharmacy,Retail
+647,"Langworth, Olson and Satterfield Pharmacy",Meschede,Germany,51.3503,8.2836,Hospital,Government
+648,Reinger Group Pharma Plc,Weil am Rhein,Germany,47.5947,7.6108,Pharmacy,Institution
+649,Monahan Ltd Pharma Plc,Güstrow,Germany,53.7939,12.1764,Pharmacy,Retail
+650,Purdy Ltd,Erkelenz,Germany,51.08,6.3156,Pharmacy,Retail
+651,"Erdman, Senger and Oberbrunner Pharmaceutical Ltd",Geretsried,Germany,47.8667,11.4667,Hospital,Private
+652,Cummings LLC,Schwäbisch Gmünd,Germany,48.8,9.8,Hospital,Government
+653,Kihn Group Pharm,Vaihingen an der Enz,Germany,48.9328,8.9564,Hospital,Private
+654,Leuschke PLC Pharm,Gaggenau,Germany,48.8039,8.3194,Hospital,Government
+655,"Upton, Abernathy and Goodwin Pharm",Kelkheim (Taunus),Germany,50.138,8.4525,Pharmacy,Retail
+656,Feest-Kshlerin Pharma Plc,Merzig,Germany,49.4471,6.6312,Hospital,Government
+657,Gibson-Hill,Troisdorf,Germany,50.8161,7.1556,Pharmacy,Retail
+658,"Spinka, Schowalter and Conn Pharma Plc",Emmendingen,Germany,48.1214,7.8492,Hospital,Government
+659,"Leuschke, Waters and Schowalter Pharma Plc",Herzogenrath,Germany,50.8667,6.1,Pharmacy,Retail
+660,Fahey-Prosacco Pharmaceutical Limited,Einbeck,Germany,51.8167,9.8667,Pharmacy,Retail
+661,"Casper, Hyatt and Jakubowski Pharmaceutical Ltd",Neuburg,Germany,48.7333,11.1833,Pharmacy,Institution
+662,Gerlach PLC Pharmaceutical Ltd,Lünen,Germany,51.6167,7.5167,Hospital,Private
+663,Vandervort LLC Pharm,Stade,Germany,53.6008,9.4764,Pharmacy,Retail
+664,Miller-Satterfield Pharmaceutical Limited,Bad Kissingen,Germany,50.2,10.0667,Pharmacy,Retail
+665,"Torphy, Pfeffer and Jakubowski Pharmaceutical Ltd",Leipzig,Germany,51.35,12.3833,Pharmacy,Retail
+666,"Haag, Bradtke and Terry Pharm",Hanau,Germany,50.1328,8.9169,Hospital,Government
+667,Bosco-Marquardt Pharmaceutical Ltd,Höxter,Germany,51.7667,9.3667,Hospital,Private
+668,Breitenberg-Kuhn Pharma Plc,Cloppenburg,Germany,52.8478,8.0439,Pharmacy,Retail
+669,"Brakus, Rempel and Harber Pharm",Winnenden,Germany,48.8764,9.3978,Hospital,Private
+670,McKenzie-Zemlak Pharma Plc,Unna,Germany,51.5347,7.6889,Pharmacy,Institution
+671,"Buckridge, Dach and Carroll",Friedrichshafen,Germany,47.6542,9.4792,Pharmacy,Retail
+672,"Funk, Ratke and Heaney",Bad Dürkheim,Germany,49.4618,8.1724,Pharmacy,Retail
+673,Crist LLC,Mühlacker,Germany,48.95,8.8392,Pharmacy,Institution
+674,Marquardt PLC Pharmaceutical Ltd,Offenburg,Germany,48.4708,7.9408,Hospital,Government
+675,Erdman PLC Pharma Plc,Freital,Germany,51.0167,13.65,Hospital,Private
+676,Runolfsson-Halvorson Pharmacy,Recklinghausen,Germany,51.6167,7.2,Pharmacy,Institution
+677,Goldner-Tillman Pharmacy,Petershagen,Germany,52.3833,8.9667,Pharmacy,Institution
+678,Friesen Group Pharm,Erkrath,Germany,51.2239,6.9147,Hospital,Government
+679,"Corkery, Trantow and Ferry Pharm",Hildesheim,Germany,52.15,9.95,Hospital,Private
+680,Crist LLC Pharma Plc,Neustadt,Germany,49.35,8.15,Pharmacy,Retail
+681,Rutherford and Sons Pharmaceutical Ltd,Dresden,Germany,51.0493,13.7384,Hospital,Private
+682,Roob PLC Pharm,Weiterstadt,Germany,49.9,8.6,Hospital,Government
+683,Bosco-Marquardt Pharmaceutical Limited,Brandenburg,Germany,52.4117,12.5561,Hospital,Government
+684,Botsford PLC,Reutlingen,Germany,48.4833,9.2167,Hospital,Government
+685,Doyle-Tillman Pharm,Erftstadt,Germany,50.8167,6.7667,Hospital,Private
+686,Smith Inc Pharm,Luckenwalde,Germany,52.0831,13.1667,Pharmacy,Institution
+687,Sauer and Sons Pharmacy,Hürth,Germany,50.8775,6.8761,Pharmacy,Institution
+688,Boyer and Sons,Greifswald,Germany,54.0833,13.3833,Pharmacy,Institution
+689,Koch-Osinski Pharmacy,Hamminkeln,Germany,51.7319,6.5908,Pharmacy,Retail
+690,"Gleichner, Bahringer and Morar Pharmaceutical Limited",Freising,Germany,48.4028,11.7489,Pharmacy,Institution
+691,Heidenreich Group Pharmacy,Leer,Germany,53.2308,7.4528,Pharmacy,Institution
+692,White Inc Pharm,Ehingen an der Donau,Germany,48.2833,9.7236,Pharmacy,Retail
+693,"Heathcote, Kovacek and Parker",Hof,Germany,50.3167,11.9167,Pharmacy,Retail
+694,Upton PLC Pharma Plc,Munich,Germany,48.1372,11.5755,Hospital,Government
+695,"Schmitt, Berge and Haley Pharmaceutical Ltd",Coburg,Germany,50.2666,10.9666,Pharmacy,Institution
+696,"Nolan, DuBuque and Schultz",Oldenburg,Germany,53.1439,8.2139,Hospital,Private
+697,Lesch PLC Pharma Plc,Königs Wusterhausen,Germany,52.2917,13.625,Pharmacy,Retail
+698,"Crist, Wisoky and Nolan Pharmaceutical Limited",Wermelskirchen,Germany,51.1392,7.2051,Hospital,Government
+699,Raynor LLC Pharmaceutical Limited,Strausberg,Germany,52.5808,13.8814,Pharmacy,Retail
+700,Bashirian Group Pharmacy,Georgsmarienhütte,Germany,52.2031,8.0447,Pharmacy,Institution
+701,"Rodriguez, Stokes and Dickens",Ostfildern,Germany,48.7228,9.2631,Hospital,Government
+702,Kling Inc Pharm,Heilbronn,Germany,49.1404,9.218,Pharmacy,Institution
+703,"Herman, Rice and Rippin Pharm",Annaberg-Buchholz,Germany,50.58,13.0022,Pharmacy,Institution
+704,Beier PLC Pharma Plc,Lampertheim,Germany,49.5942,8.4671,Pharmacy,Institution
+705,"Buckridge, Hand and Hyatt Pharmaceutical Ltd",Bad Neuenahr-Ahrweiler,Germany,50.5447,7.1133,Pharmacy,Institution
+706,Hartmann-Wolf Pharmacy,Wunstorf,Germany,52.4238,9.4359,Pharmacy,Retail
+707,Lockman Ltd Pharm,Mettmann,Germany,51.25,6.9667,Pharmacy,Retail
+708,Huels-Klein,Peine,Germany,52.3203,10.2336,Pharmacy,Retail
+709,Schaefer Group Pharmaceutical Ltd,Rodgau,Germany,50.0256,8.8841,Hospital,Government
+710,"McClure, Zemlak and Dibbert Pharmacy",Beckum,Germany,51.7558,8.0408,Hospital,Private
+711,Cremin-Zemlak Pharmaceutical Limited,Cottbus,Germany,51.7606,14.3342,Pharmacy,Institution
+712,Osinski-Botsford Pharmacy,Wiesloch,Germany,49.2942,8.6983,Hospital,Government
+713,Konopelski-Blick Pharmaceutical Limited,Bramsche,Germany,52.4089,7.9728,Hospital,Government
+714,Runte-Marquardt Pharm,Wittenberg,Germany,51.8671,12.6484,Hospital,Private
+715,Schaefer-Rolfson Pharmacy,Germersheim,Germany,49.2167,8.3667,Pharmacy,Institution
+716,"Beer, Kohler and Beatty Pharmacy",Obertshausen,Germany,50.0715,8.8482,Pharmacy,Retail
+717,Gibson-Hill Pharmaceutical Limited,Friedberg,Germany,50.3353,8.755,Pharmacy,Institution
+718,McCullough LLC Pharmaceutical Limited,Nuremberg,Germany,49.4528,11.0778,Pharmacy,Retail
+719,Hermiston LLC Pharmaceutical Ltd,Weingarten,Germany,47.8078,9.6417,Pharmacy,Retail
+720,"Heathcote, Grant and Witting Pharmacy",Braunschweig,Germany,52.2692,10.5211,Hospital,Private
+721,Kohler-Bednar Pharm,Bad Vilbel,Germany,50.1781,8.7361,Hospital,Government
+722,Jast-Cruickshank Pharmaceutical Ltd,Düsseldorf,Germany,51.2311,6.7724,Pharmacy,Institution
+723,Schaden-Hirthe,Kaiserslautern,Germany,49.4447,7.7689,Pharmacy,Institution
+724,Carter-Conn Pharm,Lemgo,Germany,52.0277,8.9043,Pharmacy,Institution
+725,Feest PLC Pharmaceutical Limited,Göppingen,Germany,48.7025,9.6528,Pharmacy,Institution
+726,Watsica-Kovacek Pharmaceutical Ltd,Leimen,Germany,49.3481,8.6911,Pharmacy,Institution
+727,Boyer and Sons Pharmaceutical Ltd,Arnstadt,Germany,50.8342,10.9464,Hospital,Private
+728,"Bogan, Jacobs and Kris Pharmaceutical Limited",Wetzlar,Germany,50.5667,8.5,Pharmacy,Institution
+729,Nader-Borer Pharm,Kerpen,Germany,50.8719,6.6961,Hospital,Private
+730,Bayer LLC,Rudolstadt,Germany,50.7169,11.3275,Hospital,Private
+731,Weber Ltd Pharmacy,Halle,Germany,51.4828,11.9697,Pharmacy,Institution
+732,Fahey-Flatley,Hagen,Germany,51.3594,7.475,Hospital,Government
+733,"Yundt, Leuschke and Ward Pharma Plc",Ahaus,Germany,52.0794,7.0134,Pharmacy,Retail
+734,"Kuphal, Herzog and Purdy",Berlin,Germany,52.5167,13.3833,Hospital,Government
+735,Tillman Group Pharma Plc,Neu-Ulm,Germany,48.3833,10.0,Hospital,Government
+736,Mills Inc Pharmacy,Bremen,Germany,53.1153,8.7975,Pharmacy,Retail
+737,Gottlieb-Koss Pharmacy,Sangerhausen,Germany,51.4667,11.3,Hospital,Private
+738,Rohan Inc Pharm,Weilheim,Germany,47.8333,11.1333,Hospital,Private
+739,Corkery-Kovacek Pharma Plc,Frankfurt,Germany,50.1136,8.6797,Pharmacy,Institution
+740,Steuber Ltd Pharmaceutical Limited,Ennepetal,Germany,51.3021,7.3425,Pharmacy,Institution
+741,Hill-Daniel,Derne,Germany,51.6667,7.6167,Hospital,Government
+742,"Cormier, Dietrich and Zulauf Pharmaceutical Limited",Esslingen,Germany,48.7406,9.3108,Hospital,Government
+743,"Blick, Pacocha and Schowalter Pharmaceutical Limited",Delbrück,Germany,51.7667,8.5667,Hospital,Private
+744,"Steuber, Skiles and Kilback Pharmacy",Datteln,Germany,51.6539,7.3417,Pharmacy,Institution
+745,Hoeger Ltd Pharm,Lennestadt,Germany,51.1236,8.0681,Pharmacy,Retail
+746,Mante-Grady Pharmaceutical Ltd,Laatzen,Germany,52.3077,9.8133,Pharmacy,Institution
+747,Trantow LLC Pharmacy,Landau,Germany,49.1994,8.1231,Hospital,Private
+748,Mante-Grady Pharma Plc,Sonthofen,Germany,47.5142,10.2817,Hospital,Private
+749,Huel Inc Pharm,Zwickau,Germany,50.7189,12.4961,Pharmacy,Retail
+750,"Wisozk, Brekke and Bartoletti",Sonneberg,Germany,50.35,11.1667,Hospital,Government
+751,Huels-Klein Pharmaceutical Ltd,Helmstedt,Germany,52.2281,11.0106,Pharmacy,Retail

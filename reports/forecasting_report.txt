@@ -1,0 +1,49 @@
+============================================================
+RxIQ FORECASTING MODEL REPORT
+============================================================
+
+Aggregated to rep-month level: 624 rows (13 reps x 48 months)
+
+Rows usable for modeling after dropping warm-up/edge rows: 572
+(13 reps x 48 months = 624 total; lose first 3 + last 1 month per rep = 13*4 = 52 rows)
+
+Train rows: 429 (2017-2019)
+Test rows:  143 (2020)
+
+--- Baseline (naive: predict = last month's sales) ---
+MAE:  6,695,341
+RMSE: 10,170,583
+R2:   -0.7519
+
+--- Linear Regression ---
+MAE:  6,328,162
+RMSE: 8,500,386
+R2:   -0.2238
+
+--- Random Forest Regressor ---
+MAE:  6,418,545
+RMSE: 8,466,587
+R2:   -0.2141
+
+--- Random Forest Feature Importance ---
+month_num         0.256560
+lag_3             0.186014
+lag_1             0.158579
+lag_2             0.138487
+rolling_mean_3    0.111070
+year              0.099454
+team_Charlie      0.016715
+quarter           0.011231
+team_Delta        0.011090
+team_Bravo        0.006653
+team_Alfa         0.004148
+
+--- Model Comparison (test set = 2020) ---
+             Model          MAE         RMSE        R2
+Naive (last month) 6.695341e+06 1.017058e+07 -0.751921
+ Linear Regression 6.328162e+06 8.500386e+06 -0.223771
+     Random Forest 6.418545e+06 8.466587e+06 -0.214059
+
+Best model by RMSE: Random Forest
+
+Predictions saved to: /home/claude/RxIQ/data/processed/rep_month_predictions.csv

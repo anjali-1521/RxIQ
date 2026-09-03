@@ -116,7 +116,7 @@ it are still in `reports/tableau_build_guide.md` if it's added later.
   ~$1.33M sales/city vs Alan Ray lowest at ~$1.14M/city; Delta top team at
   ~$3.68B
 
-## Step 5 summary
+## Step 4 summary
 
 - `scripts/03_forecasting_model.py` — predicts **next month's sales per rep**
   using lag features (1/2/3-month lag, 3-month rolling mean), calendar
